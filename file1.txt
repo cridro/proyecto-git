@@ -1,2 +1,8 @@
 hola mundo!
 este archivo cambio con respecto al original.
+y ahora estoy probando el git diff.
+
+estoy escribiendo cosas ramdom 
+xsssssssssss
+xddddddddddd sorry
+ya no 
